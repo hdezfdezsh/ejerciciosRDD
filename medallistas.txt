@@ -1,0 +1,16 @@
+Jadergo,Oro,47
+Edriki,Bronce,29
+Josanko,Oro,18
+Romonowik,Oro,11
+Julandron,Plata,22
+Pichurra,Plata,22
+Pochinki,Bronce,78
+Pokabroma,Bronce,69
+Chuminamen,Bronce,30
+ACM1PT,Oro,24
+Jadergo,Bronce,49
+Josanko,Oro,19
+Josanko,Oro,20
+Romonowik,Plata,15
+Julandron,Oro,24
+ACM1PT,Bronce,88
